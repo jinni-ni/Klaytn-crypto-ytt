@@ -237,3 +237,5 @@ package-lock.json
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/solidity,soliditytruffle,visualstudiocode,node
+
+.Keystore
