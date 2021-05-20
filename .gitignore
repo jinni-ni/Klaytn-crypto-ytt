@@ -237,7 +237,7 @@ package-lock.json
 .ionide
 
 Keystore/
-ruffle-config.js
+truffle-config.js
 
 # End of https://www.toptal.com/developers/gitignore/api/solidity,soliditytruffle,visualstudiocode,node
 
